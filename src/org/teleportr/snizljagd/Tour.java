@@ -27,6 +27,10 @@ public class Tour {
         "A&O Berlin Hauptbahnhof: Lehrter Str. 12-1, Berlin",
         "Restaurant zum Hirsch: Brunsbüttlerdamm 123, Berlin",
         "Apartment Schieß di glei weida: Am Ochsensepp 4, Berlin",
+        "A&0 BerLin Mitte: KöpenickerStr. 127-129, Berlin",
+        "aletto JugendhoteI Kreuzberg: Tempethofer Ufer 8/9, Berlin",
+        "atetto Ku'Damm Hostel: Hardenbergstr. 21, Berlin",
+        "atetto Schöneberg: Grunewaldstr. 33, Berlin",
         
     };
     
