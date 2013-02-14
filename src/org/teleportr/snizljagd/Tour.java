@@ -24,6 +24,9 @@ public class Tour {
         
         "Foo: Friedrichstraße 3, Berlin",
         "Bar: Warschauerstraße 7, Berlin",
+        "A&O Berlin Hauptbahnhof: Lehrter Str. 12-1, Berlin",
+        "Restaurant zum Hirsch: Brunsbüttlerdamm 123, Berlin",
+        "Apartment Schieß di glei weida: Am Ochsensepp 4, Berlin",
         
     };
     
