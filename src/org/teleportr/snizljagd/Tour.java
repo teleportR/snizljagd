@@ -64,6 +64,10 @@ public class Tour {
         "Aurora Hostel: Pappelallee 21, Berlin",
         "Backpacker Berlin: Knorrpromenade 10, Berlin",
         "Check In Hostel: Markgrafenstr. 68, berlin",
+        "Cityhostel Berlin: Glinkastr. 5, Berlin",
+        "citystay Hostel: Rosenstr. 16, Berlin",
+        "Corner Hostel: Driesener Str. 17, Berlin",
+        "Die Etage East: Langhansstr. 8, Berlin",
         
         
        
